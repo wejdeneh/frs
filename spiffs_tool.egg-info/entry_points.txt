@@ -1,0 +1,2 @@
+[console_scripts]
+spiffs-tool = spiffs_forensics:main

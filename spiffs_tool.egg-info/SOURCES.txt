@@ -1,0 +1,8 @@
+README.md
+setup.py
+spiffs_forensics.py
+spiffs_tool.egg-info/PKG-INFO
+spiffs_tool.egg-info/SOURCES.txt
+spiffs_tool.egg-info/dependency_links.txt
+spiffs_tool.egg-info/entry_points.txt
+spiffs_tool.egg-info/top_level.txt
